@@ -5,7 +5,7 @@ This project implements a face recognition system using the **Eigenface** algori
 ## Project Structure
 
 ```text
-face-detection-numpy/
+face-detection-pca/
 ├── dataset/                # Face images (training and testing)
 │   ├── training/           # 40 subjects, 9 images each (.pgm)
 │   └── testing/            # 40 subjects, 1 image each (.pgm)
